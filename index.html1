@@ -1,0 +1,46 @@
+<!doctype>
+<html>
+<head>
+<style>
+div 
+{
+padding-left:60px;
+padding-top:60px;
+padding-right:40px;
+padding-bottom:40px;
+border:1px solid green;
+background-color:blue;
+}
+p-parts
+{
+border-style:solid;
+border-width:50px;
+border-color:green;
+}
+table
+{
+border:2px dashed grey;
+width:20px;
+height:20px;
+padding:13px;
+vertical-alignment:center;
+horizontal-alignment:center;
+
+</style>
+</head>
+<body>
+<h1> about BIT</h1>
+<div style="color:pink;">
+BIT is a well versed learning center.with full of green campus.
+</div>
+<p class="types">cse department<br>ece department</p>
+<table>
+<tr><th>s.no</th><th>name</th><th>department</th><th>percentage</th>
+<tr><th>1</th><th>jagasurya</th><th>cse</th><th>92%</th>
+<tr><th>2</th><th>kokila</th><th>ece</th><th>96%</th>
+<tr><th>3</th><th>kavya</th><th>eee</th><th>90%</th>
+<tr><th>4</th><th>malini</th><th>mech</th><th>92%</th>
+</table>
+</body>
+</html>
+
